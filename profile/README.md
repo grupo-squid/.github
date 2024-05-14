@@ -17,7 +17,7 @@ Este repositório contém o código-fonte e a documentação da Squid. Aqui voc�
 - 💻 **Tecnologia Avançada**: Utilizamos tecnologia de ponta para garantir a segurança e eficiência de todas as transações financeiras realizadas em nossa plataforma.
 - 🌍 **Acessibilidade Global**: Nossos serviços estão disponíveis para clientes em todo o mundo, proporcionando acesso fácil e conveniente a soluções financeiras de última geração.
 
-## 🌊 Slogan: SUA VIDA NÃO É ESTÁTICA. SUA SOLUÇÃO FINANCEIRA NÃO PRECISA SER!
+## 🌊 SUA VIDA NÃO É ESTÁTICA. SUA SOLUÇÃO FINANCEIRA NÃO PRECISA SER!
 
 ## 📞 Entre em Contato
 
